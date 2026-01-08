@@ -1,2 +1,4 @@
 1º - Primeira alteração no arquivo
 2º - Segunda alteração no arquivo
+4º - Quarta alteração no arquivo.txt executado na branch main
+3º - Terceira alteração no arquivo.txt executado na branch main
