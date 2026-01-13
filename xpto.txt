@@ -1,5 +1,6 @@
 1º - Criação do arquivo xpto.txt na branch feature/arquivo_xpto
 
 2º - Nova linha usuário local (alteração no repositório local do usuário Mario)
-Nova linha usuário remoto (alteração no repositório origin)
+
+3º - Nova linha usuário remoto (alteração no repositório origin)
 
