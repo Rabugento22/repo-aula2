@@ -4,3 +4,4 @@
 3º - Terceira alteração no arquivo.txt executado na branch main
 Primeira alteração no arquivo main.txt
 6º - Sexta alteração no arquivo - alteração no GitHub
+7] - Setima linha no arquivo.txt (Alteração executada no repositório origin)
