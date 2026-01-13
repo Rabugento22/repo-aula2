@@ -3,3 +3,4 @@
 4º - Quarta alteração no arquivo.txt executado na branch main
 3º - Terceira alteração no arquivo.txt executado na branch main
 Primeira alteração no arquivo main.txt
+6º - Sexta alteração no arquivo - alteração no GitHub
