@@ -4,3 +4,4 @@
 
 3º - Nova linha usuário remoto (alteração no repositório origin)
 
+4º - Novo teste alteração via VSCode
