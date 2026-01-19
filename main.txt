@@ -3,4 +3,4 @@ Nova linha repo remoto no arquivo main.txt, branch novabranch
 3º - terceira linha no arquivo main.txt
 4º - Quarta linha local utilizando o comando fetch
 5º - Nova linha remota repositório origin
-
+6º - Nova linha local "Teste VSCode"
